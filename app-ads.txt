@@ -1,0 +1,2 @@
+# app-ads.txt for HMZ Games (Kovala)
+# Ad network lines will be added here when the AppLovin account is approved.
