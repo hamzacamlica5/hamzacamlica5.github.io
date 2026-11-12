@@ -1,2 +1,1 @@
-# app-ads.txt for HMZ Games (Kovala)
-# Ad network lines (Google AdMob) will be added here once the AdMob account is set up.
+google.com, pub-3985394913061392, DIRECT, f08c47fec0942fa0
